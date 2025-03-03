@@ -1,0 +1,22 @@
+.addNewMovieContainer{
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #343fdbb1;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-shadow: 2px 2px 2px #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 1rem;
+
+}
+
+.buttonsContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1rem;
+}
